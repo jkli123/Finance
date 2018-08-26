@@ -1,0 +1,161 @@
+===============================================================
+			Finance Keeper Applet 
+		                         Done In Java
+===============================================================
+
+===============================================================
+1. Version Log
+2. Introduction
+3. Capabilities of Finance Keeper
+    a. Add Expense
+    b. Add Income
+    c. Add Transfer
+    d. Save
+    e. Load
+     f. GetHelp
+4. Java Classes
+    a. Finance.java
+        a(1). main 
+    b. Expense.java
+        b(1). getDate
+        b(2). getType
+        b(3). getName
+        b(4). getAmount
+        b(5). setDate
+        b(6). setType
+        b(7). setName
+        b(8). setAmount
+    c. Income.java
+        c(1). getDate
+        c(2). getType
+        c(3). getSource
+        c(4). getAmount
+        c(5). setDate
+        c(6). setType
+        c(7). setSource
+        c(8). setAmount
+    d. Transfer.java
+        d(1). getDate
+        d(2). getFrom
+        d(3). getTo
+        d(4). getAmount
+    e. Account.java
+        e(1). addExpense
+        e(2). addIncome
+        e(3). addTransfer
+        e(4). getAccountName
+        e(5). getAmount
+        e(6). initialise
+        e(7). setAccountName
+        e(8). setAmount
+        e(9). toString
+    f. BankIO.java
+        f(1). readAccountFile
+        f(2). updateAccountFile
+        f(3). writeAccountFile
+        f(4). writeToFile
+        f(5). readFromFile
+    g. FinanceGui.java
+        g(1). initialise
+        g(2). buildGui
+        g(3). buildAccountPanels
+        g(4). buildJMenuBar
+        g(5). buildJTable
+        g(6). buildAdditionWindowButton
+        g(7). buildAdditionWindow
+        g(8). updateAmountOnFrame
+        g(9). updateJTable
+        g(10). getPanelText
+        g(11). additionOfMoney
+        g(12). messageBox
+        g(13). messageBoxError
+        g(14). Inner Classes : $a. OpenTable
+		       : $b. SaveAccount
+		       : $c. LoadAccount
+		       : $d. GetHelp
+		       : $e. AccountExpense
+		       : $f. AccountIncome
+		       : $g. AccountTransfer
+		       : $h. AddExpense
+		       : $i. AddIncome 
+		       : $j. AddTransfer 
+		       : $k. CancelExpense
+		       : $l. CancelIncome
+		       : $m. CancelTransfer
+		       : $n. CloseMessageBox
+		       : $o. CloseErrorMessageBox   
+===============================================================
+
+
+===========
+1. Version Log
+===========
+
+17/5/2017 - Ver 1.00 - Beta version testing complete. Rolled out Finance.jar file 
+		  for implementation and usage.
+
+
+===========
+2. Introduction
+===========
+
+This finance applet uses java as its main language. Contains a GUI that is the most basic
+and allows you to keep track of the finances of 3 accounts; Posb, Cimb and Cash. Basic
+adding of expenses and income to the different account is possible. Transfer between
+accounts is also possible. The applet also allows viewing of the transactions that are made
+of the different types. Sorting of the tables are allowed automatically but editing is 
+disallowed. More improvements will be made to the applet as time comes along.
+
+
+==========================
+3.  Capabilities of Finance Keeper
+==========================
+
+a. Add Expense
+Allows you to add expenses to the specific account. Pops up a new window that will ask
+for details regarding the expense. Fill in accordingly with special note taken to the field, type,
+as it only accepts "Posb", "Cimb" or "Cash" w/o the quotes. Any other combination of words
+will result in your expense not being added correctly.
+
+b. Add Income
+Allows you to add income to the specific account. Pops up a new window that will ask for 
+details regarding the income. Take due note that the field, type, only accepts "Posb", "Cimb" 
+or "Cash" w/o the quotes. Any other combination of words will result in your income not 
+being added correctly.
+
+c. Add Transfer
+Allows you to transfer funds between the different accounts. Pops up a new window that will
+ask for details regarding the transfer. Take due note that the 2 fields, from and to, 
+only accepts "Posb", "Cimb" or "Cash" w/o the quotes. Any other combination of words will 
+result in your transfer not being added correctly.
+
+d. Save
+A mostly experimental capability with no real functionality other than to store up the account
+values at specific times. This allows you to save the value of the different accounts to a .File
+extension file that can be loaded from using load function. However, this does not change
+the amount in the original Account.txt file and in order to commit a change to that file, a
+transaction has to be made. Be careful when using this function.
+
+e. Load
+Loads a file that has values of account stored in them. Take note that other types of files will
+not work and only the original Account.txt file will be loaded if selected or any other .File that
+is user created using the Save function. This will also not change the amount in the original
+Account.txt file until a new transaction is made.
+
+f. GetHelp
+This function allows you to open this GetHelp.txt file.
+
+
+============
+4. Java Classes
+============
+
+The following section will be the official documentation for the different methods and inner 
+classes that are present in the Finance Applet program.
+
+============
+a. Finance.java
+============
+Package: com.chee.finance;
+/**
+

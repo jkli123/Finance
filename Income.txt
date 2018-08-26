@@ -1,0 +1,84 @@
+
+Coin Bank:15/5/2017:Cash:70.00:
+
+Nikko STI Sold:19/5/2017:Posb:1.73:
+
+CIMB Interest:31/5/2017:Cimb:7.20:
+
+M Money:09/06/2017:Cash:3.60:
+
+CPL Pay Monthly:10/6/2017:Posb:756.40:
+
+Posb Interest:31/5/2017:Posb:0.01:
+
+CIMB Interest:30/6/2017:Cimb:7.29:
+
+POSB Interest:30/6/2017:Posb:0.01:
+
+CPL Pay:07/07/2017:Posb:756.40:
+
+M Money:17/7/20117:Cash:10.00:
+
+Nikko STI Refund:17/7/2017:Posb:2.37:
+
+Nikko Dividend:17/7/2017:Posb:4.18:
+
+Movie Money:29/7/2017:Cash:21.00:
+
+POSB Interest:31/7/2017:Posb:0.01:
+
+CIMB Interest:31/7/2017:Cimb:7.90:
+
+CFC Pay Monthly:08/08/2017:Posb:816.40:
+
+SAFRA Rebate:12/8/2017:Posb:4.23:
+
+QCDM:10/8/2017:Posb:0.15:
+
+Nikko STI Refund:16/8/2017:Posb:1.10:
+
+Payback For PSU:23/8/2017:Cash:50.00:
+
+Payback for Dinner and Cash Flow Adjustment:30/8/2017:Cash:67.00:
+
+Payback for Dinner:30/8/2017:Posb:53.00:
+
+STI ETF Refund:25/8/2017:Posb:3.23:
+
+Payback for Dinner:31/8/2017:Posb:31.00:
+
+POSB Interest:31/8/2017:Posb:0.01:
+
+CIMB Interest:31/8/2017:Cimb:8.24:
+
+CFC Pay:09/09/2017:Posb:786.40:
+
+Monthly Interest:30/9/2017:Posb:0.02:
+
+CIMB Interest:30/9/2017:Cimb:8.29:
+
+M Money:1/10/2017:Cash:30.00:
+
+M Money:9/10/2017:Cash:20.00:
+
+CFC Pay:10/10/2017:Posb:786.40:
+
+POSB Interest:1/11/2017:Posb:0.01:
+
+CIMB Interest:1/11/2017:Cimb:8.92:
+
+SAF CFC Pay:10/11/2017:Posb:786.40:
+
+Carousell Sell:19/11/2017:Cash:40.00:
+
+STI ETF Refund:20/11/2017:Posb:1.34:
+
+CIMB Interest:30/11/2017:Cimb:8.97:
+
+POSB Interest:30/11/2017:Posb:0.01:
+
+CFC Pay Monthly:11/12/2017:Posb:786.40:
+
+M Money:11/12/2017:Cash:16.00:
+
+STI Refund:20/12/2017:Posb:3.46:

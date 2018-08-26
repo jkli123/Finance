@@ -1,0 +1,216 @@
+
+16/5/2017:Cash:Drinks:2.00:
+
+16/5/2017:Posb:BBDC Account:33:
+
+19/5/2017:Cash:Dinner and Drinks:30.00:
+
+20/5/2017:Posb:Dinner:10.00:
+
+23/5/2017:Cash:Merry Go Round Ride:1.00:
+
+23/5/2017:Posb:Dinner and Dessert:53.50:
+
+25/5/2017:Posb:Dinner:9.00:
+
+28/05/2017:Cash:Drinks:0.60:
+
+6/6/2017:Posb:Ez-Link Top Up:5.30:
+
+10/6/2017:Posb:Aviva Insurance:5.17:
+
+10/6/2017:Posb:Facial Product:44.02:
+
+12/6/2017:Posb:Concession Pass:45.00:
+
+12/6/2017:Cash:Food:2.20:
+
+13/6/2017:Posb:Dinner:22.00:
+
+17/6/2017:Cash:Breakfast:3.00:
+
+18/6/2017:Cash:Driving Fee:4.00:
+
+15/6/2017:Posb:Nikko STI:100.00:
+
+26/06/2017:Cash:Driving Fee:8.00:
+
+27/6/2017:Cash:Taxi Fare:8.00:
+
+29/6/2017:Posb:Chalet Fee:23.00:
+
+29/6/2017:Cash:Dinner:22.20:
+
+29/6/2017:Posb:EZ-Link Top Up:5.30:
+
+4/7/2017:Posb:Clock and Items:30.80:
+
+07/06/2017:Cash:Lunch:6.60:
+
+06/06/2017:Posb:Lunch and Dinner:43.00:
+
+07/07/2017:Posb:Uber:8.02:
+
+09/07/2017:Posb:Groceries:35.65:
+
+09/07/2017:Posb:Guitar Strings:25.00:
+
+10/7/2017:Posb:Aviva :5.17:
+
+13/7/2017:Posb:Concession Pass:45.00:
+
+14/7/2017:Posb:Dinner:37.00:
+
+15/07/2017:Posb:Nikko STI:100.00:
+
+17/7/2017:Posb:EZ-Link:5.30:
+
+18/7/2017:Cash:Breakfast:3.40:
+
+23/7/2017:Posb:Songsterr App:6.99:
+
+23/7/2017:Cash:Driving Fee:3.00:
+
+29/7/2017:Posb:Movie Tickets:57.50:
+
+25/7/2017:Posb:Songsterr Charge:0.20:
+
+29/7/2017:Posb:Help buy DInner:7.00:
+
+30/7/2017:Posb:Dinner:44.50:
+
+30/7/2017:Cash:Ice Cream:1.00:
+
+1/8/2017:Posb:EZ Link:5.30:
+
+2/8/2017:Posb:Driving License:50.00:
+
+1/8/2017:Cash:Photos:7.00:
+
+08/08/2017:Cash:Lunch:3.00:
+
+10/8/2017:Cash:Breakfast:4.00:
+
+10/8/2017:Bank:Facial Products:59.78:
+
+10/8/2017:Posb:Facial Pdts:59.78:
+
+13/8/2017:Posb:Concession Pass:45.00:
+
+15/8/2017:Posb:Nikko STI:100.00:
+
+10/8/2017:Posb:Aviva:5.17:
+
+15/8/2017:Cash:Drinks:1.40:
+
+16/8/2017:Cash:Groceries:15.15:
+
+22/8/2017:Posb:FSP HEXA PSU:56:
+
+22/8/2017:Posb:Swimming Trunks:19.89:
+
+21/8/2017:Cash:Drinks:1.10:
+
+30/8/2017:Posb:Dinner:187.00:
+
+30/8/2017:Cash:Desert:3.80:
+
+26/8/2017:Cash:Lunch:8.20:
+
+29/8/2017:Cash:Drinks:1.00:
+
+6/9/2017:Cash:Payback for lunch:5.00:
+
+09/09/2017:Posb:Aviva:5.17:
+
+15/9/2017:Posb:Nikko STI ETF:100.00:
+
+15/9/2017:Posb:Dinner:36.00:
+
+18/9/2017:Posb:Concession Pass:45.00:
+
+23/9/2017:Posb:Personal Products:41.01:
+
+30/09/2017:Posb:Groceries:41.95:
+
+1/10/2017:Posb:Dinner:28.20:
+
+5/10/2017:Posb:PS3:150.00:
+
+5/10/2017:Posb:Dinner:44.00:
+
+9/10/2017:Cash:Drinks:1.00:
+
+9/10/2017:Posb:PSN Credits:80.00:
+
+9/10/2017:Posb:Dinner:30.00:
+
+11/10/2017:Posb:Groceries:26.30:
+
+10/10/2017:Posb:Aviva:5.17:
+
+13/10/2017:Posb:Dinner:8.80:
+
+16/10/2017:Posb:Nikko STI:100.00:
+
+20/10/2017:Posb:Concession Pass:45.00:
+
+26/10/2017:Posb:Facial Pdts:79.20:
+
+30/10/2017:Posb:Lunch:18.00:
+
+6/11/2017:Posb:Dinner:18.60:
+
+10/11/2017:Cash:Coffee:1.00:
+
+13/11/2017:Posb:Aviva:5.17:
+
+15/11/2017:Posb:Nikko STI:100.00:
+
+16/11/2017:Cash:Lunch:4.80:
+
+17/11/2017:Cash:Drinks:1.00:
+
+20/11/2017:Posb:Concession Pass:45.00:
+
+22/11/2017:Posb:Audio Jack:25.47:
+
+23/11/2017:Posb:PSN Credits:40.00:
+
+23/11/2017:Posb:Drinks:3.20:
+
+24/11/2017:Posb:Groceries:58.84:
+
+24/11/2017:Posb:Groceries Correction:0.05:
+
+26/11/2017:Posb:PS3 Thumb Grips:2.00:
+
+25/11/2017:Posb:PSN Fees:1.07:
+
+27/11/2017:Posb:Plug-Ins:4.17:
+
+27/11/2017:Posb:Lunch:12.80:
+
+29/11/2017:Posb:Plug In Additional Cost:0.12:
+
+30/12/2017:Posb:Dinner:20.00:
+
+30/12/2017:Cash:Drinks:2.20:
+
+1/12/2017:Posb:Cable:2.90:
+
+6/12/2017:Posb:Lunch:9.90:
+
+10/11/2017:Posb:Lunch:21.00:
+
+11/12/2017:Posb:Aviva:5.17:
+
+12/12/2017:Posb:Presonus Eries E5:365.00:
+
+15/12/2017:Posb:Nikko STI ETF:100.00:
+
+16/12/2017:Posb:TRS Cables:48.00:
+
+19/12/2017:Posb:Concession Pass:45.00:
+
+27/12/2017:Posb:Groceries:32.91:
